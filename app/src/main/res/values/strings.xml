@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Family Safety</string>
+    <string name="safety">Safety</string>
+    <string name="sos">sos</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency keep telling family mebers to contact me</string>
+    <string name="guard">GUARD</string>
+    <string name="home">Home</string>
+    <string name="dashboard">dashboard</string>
+    <string name="profile">profile</string>
+    <string name="security">security</string>
+    <string name="MyFamily">myfamily</string>
+    <string name="my_family">My Family</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="calculate">Calculate</string>
+    <string name="open_screen">Open Screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_">Dashboard</string>
+    <string name="user">User</string>
+    <string name="hey_this_is_sam_call_me_whenever_you_need_me">Hey this is Sam, call me whenever you need me</string>
+    <string name="sam_henrey">Sam Henrey</string>
+    <string name="nancy">Nancy</string>
+    <string name="invite">Invite</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="your_web_client_id">565467222848-ktkv4oi74pr7d7or99pie08idtmserpa.apps.googleusercontent.com</string>
+</resources>
